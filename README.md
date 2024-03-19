@@ -2,7 +2,7 @@
 对2020-2024年美股数据的分析<br>
 
 <strong> 数据集来源 </strong>
-<a href="https://www.kaggle.com/datasets/dhavalpatel555/us-stock-market-2020-to-2024/" title="kaggle数据">kaggle上的数据集</a>
+<a href="https://www.kaggle.com/datasets/dhavalpatel555/us-stock-market-2020-to-2024/" title="kaggle数据"></a>
 kaggle：<br>
 
 
