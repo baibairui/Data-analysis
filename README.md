@@ -217,7 +217,8 @@ ARIMA模型在金融、经济、销售等领域的时间序列数据分析中有
 
 多元线性回归模型可以表示为：
 
-\[ Y = \beta_0 + \beta_1X_1 + \beta_2X_2 + \ldots + \beta_nX_n + \epsilon \]
+![image](https://github.com/baibairui/stock_pridict/assets/123094711/3dfd1374-c090-47f9-af94-9d4a03d80432)
+
 
 其中：
 
