@@ -23,12 +23,23 @@ kaggle：<br>
 3. 数据缺失值的填补
 
 # 数据相关性分析
-1. 绘制直方图观察数据分布情况
-2. 绘制时序数据图并添加布林线和移动平均线来确定波动性
-3. 绘制相关性热力图
-4. 对相关性大的数据进行格兰杰因果检验
-5. 对数据进行因子分析
-6. 特征工程
+## 绘制直方图观察数据分布情况<br>
+![image](https://github.com/baibairui/stock_pridict/assets/123094711/267f4194-f4ef-40a9-90c5-46bd30f7e2f6)
+
+
+## 绘制时序数据图并添加布林线和移动平均线来确定波动性<br>
+![image](https://github.com/baibairui/stock_pridict/assets/123094711/0f09907c-94c6-413c-bac0-ae8ed21409d4)
+
+
+## 绘制相关性热力图<br>
+   ![image](https://github.com/baibairui/stock_pridict/assets/123094711/3449ea93-d018-47e5-b66d-f5b73883d4e8)
+
+## 对相关性大的数据进行格兰杰因果检验<br>
+
+## 对数据进行因子分析<br>
+
+## 特征工程<br>
+
 
 # 机器学习模型拟合
 ## xgboost
