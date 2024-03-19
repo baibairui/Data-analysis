@@ -24,7 +24,8 @@ kaggle：<br>
 
 # 数据相关性分析
 ## 绘制直方图观察数据分布情况<br>
-![image](https://github.com/baibairui/stock_pridict/assets/123094711/267f4194-f4ef-40a9-90c5-46bd30f7e2f6)
+![image](https://github.com/baibairui/stock_pridict/assets/123094711/11f7a81a-6fee-4b6e-9657-a9b6747fa627)
+
 
 
 ## 绘制时序数据图并添加布林线和移动平均线来确定波动性<br>
