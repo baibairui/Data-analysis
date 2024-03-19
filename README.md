@@ -2,7 +2,8 @@
 对2020-2024年美股数据的分析<br>
 
 <strong> 数据集来源 </strong>
-kaggle：https://www.kaggle.com/datasets/dhavalpatel555/us-stock-market-2020-to-2024/<br>
+<a href="https://www.kaggle.com/datasets/dhavalpatel555/us-stock-market-2020-to-2024/" title="kaggle数据">kaggle上的数据集</a>
+kaggle：<br>
 
 
 <strong> 数据预处理 </strong><br>
@@ -15,3 +16,9 @@ kaggle：https://www.kaggle.com/datasets/dhavalpatel555/us-stock-market-2020-to-
 
 <strong> 结合机器学习模型对多元线性回归进行改进，R2提升近20% </strong><br>
 
+
+## 数据预处理
+1. 数据预览
+2. 数据格式统一
+3. 数据缺失值的填补
+   
