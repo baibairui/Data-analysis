@@ -30,7 +30,7 @@ kaggle：<br>
 5. 对数据进行因子分析
 
 ## 机器学习模型拟合
-**1. xgboost**
+### xgboost
 XGBoost（eXtreme Gradient Boosting）是一个高效的、灵活的、可移植的机器学习库，专门针对提升树（boosted trees）算法进行了优化。它在Gradient Boosting框架的基础上进行了改进，旨在提高模型的性能和速度。XGBoost在众多机器学习竞赛中展现了其强大的性能，包括Kaggle竞赛中的多个冠军解决方案。<br>
 ![image](https://github.com/baibairui/stock_pridict/assets/123094711/bfda4f2a-0e35-4694-9038-35d4a697c851)
 
@@ -54,7 +54,7 @@ XGBoost可以应用于广泛的机器学习任务中，包括但不限于：
 - **排序问题**：如搜索排序
 - **时间序列预测**
 
-**2. lstm**
+### lstm
 长短期记忆网络（Long Short-Term Memory, LSTM）是一种特殊类型的循环神经网络（RNN），能够学习长期依赖关系。LSTM由Hochreiter & Schmidhuber（1997）引入，旨在解决传统RNN在处理长序列数据时遇到的梯度消失和梯度爆炸问题。LSTM在多个领域，包括自然语言处理、语音识别和时序数据分析等，都有广泛应用。
 ![image](https://github.com/baibairui/stock_pridict/assets/123094711/40d8e14b-8769-42b7-a1e3-4ec91784b673)
 
@@ -76,7 +76,7 @@ LSTM适用于各种涉及序列数据的任务，例如：
 - **语音识别**：将语音转换为文本。
 - **时间序列预测**：如股票价格预测、天气预测等。
 
-**4. knn**
+### knn
 K最近邻（K-Nearest Neighbors, KNN）是一种基本且广泛使用的监督学习算法，用于分类和回归。其工作原理极其简单：对于一个待预测的数据点，算法会在训练集中找到与之最近的K个邻居，然后根据这些邻居的信息来预测该数据点的标签。
 
 **核心思想**
@@ -105,7 +105,7 @@ KNN算法可以应用于多种场景，包括但不限于：
 3. **找到最近的K个邻居**：选择距离最近的K个点。
 4. **投票或平均**：对于分类问题，根据最近邻居的多数类别来分类；对于回归问题，取最近邻居的输出变量的平均值作为预测值。
 
-**5. cnn**
+### cnn
 卷积神经网络（Convolutional Neural Networks, CNN）是一种在计算机视觉任务中广泛使用的深度学习架构。CNN通过模拟人类视觉系统的机制，能够有效地识别图像中的模式和特征，如边缘、颜色和纹理等。CNN的强大能力使其在图像分类、对象检测、面部识别和许多其他领域都有广泛应用。
 
 ![image](https://github.com/baibairui/stock_pridict/assets/123094711/edcb5d01-84de-4a40-ab32-e602b29885c2)
@@ -133,7 +133,7 @@ CNN在多个领域都有出色的表现，包括但不限于：
 - **图像分割**：将图像分割成多个区域，用于进一步分析。
 - **面部识别**：识别或验证个人的身份。
 
-**6. Rnn**
+### Rnn
 循环神经网络（Recurrent Neural Networks, RNN）是一类用于处理序列数据的深度学习模型。RNN能够处理不同长度的输入序列，并在内部维持一个状态（隐藏状态），该状态能够捕捉到目前为止观察到的序列的信息。RNN特别适合于时间序列数据、自然语言文本、语音等序列化信息的任务。
 ![image](https://github.com/baibairui/stock_pridict/assets/123094711/7139af85-4605-43b4-b0c6-ad1b224f49a7)
 
