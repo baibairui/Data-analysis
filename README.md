@@ -176,6 +176,7 @@ RNN在许多涉及序列数据的任务中表现出色，包括：
 - **门控循环单元**（GRU）：比LSTM简单，但同样有效地解决了长距离依赖问题。
 
 ## 拟合效果比较
+![image](https://github.com/baibairui/stock_pridict/assets/123094711/f64490b8-7160-4ff8-90db-f8687a05280d)
 
 # 对未来数据进行预测
 ## 自回归积分滑动平均模型（ARIMA）介绍
