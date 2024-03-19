@@ -1,4 +1,4 @@
-# stock_pridict
+# 我要炒美股
 对2020-2024年美股数据的分析<br>
 
 <strong> 数据集来源 </strong>
