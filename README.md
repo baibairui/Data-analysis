@@ -2,9 +2,9 @@
 
 # 数据预处理
 
-- **[数据预览](https://vscode.dev/github.com/baibairui/stock_pridict/blob/main/%E6%95%B0%E6%8D%AE%E9%A2%84%E8%A7%88.md)**
-- **[数据格式的统一](https://vscode.dev/github.com/baibairui/stock_pridict/blob/main/%E6%95%B0%E6%8D%AE%E6%A0%BC%E5%BC%8F%E7%BB%9F%E4%B8%80.md)**
-- **[数据缺失值的处理](https://vscode.dev/github.com/baibairui/stock_pridict/blob/main/%E7%BC%BA%E5%A4%B1%E5%80%BC%E7%9A%84%E5%A4%84%E7%90%86.md)**
+- **[数据预览](baibairui/stock_pridict/asset/数据预览.md)**
+- **[数据格式的统一](baibairui/stock_pridict/asset/数据格式统一.md)**
+- **[数据缺失值的处理](baibairui/stock_pridict/asset/缺失值的处理.md)**
 
 # 数据相关性分析
 ## 绘制直方图观察数据分布情况<br>
