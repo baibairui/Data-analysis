@@ -7,23 +7,8 @@
 - **[数据缺失值的处理](https://github.com/baibairui/stock_pridict/blob/9d0149644e315707a38f612fffee2795210699cf/asset/%E7%BC%BA%E5%A4%B1%E5%80%BC%E7%9A%84%E5%A4%84%E7%90%86.md)**
 
 # 数据相关性分析
-## 绘制直方图观察数据分布情况<br>
-![image](https://github.com/baibairui/stock_pridict/assets/123094711/74cccf6a-79a1-4093-8da2-091a538babc8)
 
-
-## 绘制时序数据图并添加布林线和移动平均线来确定波动性<br>
-![image](https://github.com/baibairui/stock_pridict/assets/123094711/0f09907c-94c6-413c-bac0-ae8ed21409d4)
-
-
-## 绘制相关性热力图<br>
-   ![image](https://github.com/baibairui/stock_pridict/assets/123094711/3449ea93-d018-47e5-b66d-f5b73883d4e8)
-
-## 对相关性大的数据进行格兰杰因果检验<br>
-
-## 对数据进行因子分析<br>
-
-## 特征工程<br>
-
+- **[数据相关性分析]()**
 
 # 机器学习模型拟合
 ## xgboost
