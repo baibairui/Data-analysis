@@ -12,4 +12,4 @@
 
 # 回归拟合预测
 
-- **[机器学习模型拟合]()**
+- **[机器学习模型拟合](https://github.com/baibairui/stock_pridict/blob/a64282441424bd976fd78a12de351220390f3675/asset/%E5%9B%9E%E5%BD%92%E6%8B%9F%E5%90%88%E9%A2%84%E6%B5%8B.md)**
