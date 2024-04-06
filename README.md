@@ -2,7 +2,7 @@
 
 # 数据预处理
 
-- **[数据预览](baibairui/stock_pridict/asset/数据预览.md)**
+- **[数据预览](https://github.com/baibairui/stock_pridict/blob/main/asset/%E6%95%B0%E6%8D%AE%E6%A0%BC%E5%BC%8F%E7%BB%9F%E4%B8%80.md)**
 - **[数据格式的统一](baibairui/stock_pridict/asset/数据格式统一.md)**
 - **[数据缺失值的处理](baibairui/stock_pridict/asset/缺失值的处理.md)**
 
