@@ -2,7 +2,7 @@
 
 # EDA
 - **[数据预览](https://github.com/baibairui/stock_pridict/blob/9d0149644e315707a38f612fffee2795210699cf/asset/%E6%95%B0%E6%8D%AE%E9%A2%84%E8%A7%88.md)**
-- **[数据分布]()
+- **[数据分布](https://github.com/baibairui/Data-analysis/blob/f035bc714d6154adbe626f7cb60395fdf4b53a0c/asset/%E6%95%B0%E6%8D%AE%E5%88%86%E5%B8%83%E9%A2%84%E8%A7%88.md)**
 - **缺失值分布**
   
 # 数据预处理
